@@ -2,6 +2,8 @@
 
 intro over mijzelf
 
+
+
 ##Projects
 
 blok 1.1 magazine
