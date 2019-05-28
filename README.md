@@ -9,7 +9,7 @@ intro over mijzelf
 blok 1.1 magazine
 blok 1.2 app
 blok 1.3 generative art
-blok 1.4 code for kides
+blok 1.4 code for kids
 
 ```markdown
 Syntax highlighted code block
