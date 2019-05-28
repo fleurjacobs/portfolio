@@ -1,10 +1,13 @@
-About
+#About
 
 intro over mijzelf
 
-Projects
+##Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+blok 1.1 magazine
+blok 1.2 app
+blok 1.3 generative art
+blok 1.4 code for kides
 
 ```markdown
 Syntax highlighted code block
